@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  display: flex;
+  width: 500px;
+  height: 500px;
+  background-color: #e7eaea;
+  border: 2px solid black;
+  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+}
+.container1 img{
+  width: 250px;
+  height: 400px;
+}
+.container3 button{
+  width: 100px;
+  height: 50px;
+  background-color: #82a380;
+  color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.cart{
+  width: 100px;
+  height: 100px;
+  margin-bottom: 90%px;
+  margin-left: 90%;
+}
+.cart img{
+  width: 100px;
+  height: 100px;
+}
